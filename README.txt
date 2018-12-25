@@ -1,7 +1,7 @@
 # Latency-numbers-every-programmer-should-know-2018
 (To be updated)
 
-Latency Comparison Numbers (~2012)
+Latency Comparison Numbers
 ----------------------------------
 L1 cache reference                           0.5 ns
 Branch mispredict                            5   ns
